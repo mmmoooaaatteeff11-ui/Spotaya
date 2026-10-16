@@ -1,2 +1,2 @@
-# Spotaya
+#catch-game
 Visibility
